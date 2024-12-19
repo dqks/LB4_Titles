@@ -1,10 +1,12 @@
 namespace LB4_AnimeTitlesApp
 {
-    public partial class Form1 : Form
+    public partial class FormUsers : Form
     {
-        public Form1()
+        public FormUsers()
         {
             InitializeComponent();
         }
+
+
     }
 }
