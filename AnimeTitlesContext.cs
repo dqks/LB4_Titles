@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 
-namespace LB4_AnimeTitlesApp;
+namespace LB4_AnimeTitlesApp.Models;
 
 public partial class AnimeTitlesContext : DbContext
 {
