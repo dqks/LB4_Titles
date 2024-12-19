@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LB4_AnimeTitlesApp", "LB4_AnimeTitlesApp.csproj", "{F50E727D-343F-407C-B9D0-F8E40AA19D2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F50E727D-343F-407C-B9D0-F8E40AA19D2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F50E727D-343F-407C-B9D0-F8E40AA19D2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F50E727D-343F-407C-B9D0-F8E40AA19D2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F50E727D-343F-407C-B9D0-F8E40AA19D2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6442EE08-251B-48DB-B9BE-FDDEC0D35C5B}
+	EndGlobalSection
+EndGlobal
